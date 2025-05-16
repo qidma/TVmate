@@ -97,7 +97,7 @@ https://www.goodiptv.club/bililive.m3u
 https://www.goodiptv.club/yylunbo.m3u?url=https://lunbo.freetv.top 
 https://yang-1989.eu.org/ 
 https://盒子迷.top/ZB
-
+https://gh-proxy.com/github.com/Guovin/iptv-api/blob/master/output/result.txt
 
 
 
