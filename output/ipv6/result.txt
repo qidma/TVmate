@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-31 20:22:33,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226153/index.m3u8
+2025-08-01 08:15:18,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226153/index.m3u8
 
 央视频道,#genre#
 CCTV-1,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226153/index.m3u8
@@ -182,7 +182,6 @@ CCTV-17,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/32
 CCTV-17,http://www.terrykang.xyz:35455/gaoma/cctv17.m3u8
 CCTV-17,http://wab201.win:35455/gaoma/cctv17.m3u8
 CCTV-17,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265015/1.m3u8
-CHC动作电影,http://a17-2.duckdns.org:8004/mgtv/644368714.m3u8
 CHC动作电影,http://a9312ecb8ac7413025915c07d453143d.livehwc4.com/live.sxrtv.com/iptv/chcdzdy.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=b0349bb5cb32fe870a773bce61c7ea6a
 CHC动作电影,http://eastscreen.tv/ooooo.php
 CHC动作电影,http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225555/main.m3u8
@@ -192,7 +191,7 @@ CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=fb9ef80443f
 CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-12.ctv
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-13.m3u8
-CHC家庭影院,http://a17-2.duckdns.org:8004/mgtv/644368373.m3u8
+CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-16.ctv
 CHC家庭影院,http://a9312ecb8ac7413025915c07d453143d.livehwc4.com/live.sxrtv.com/iptv/chcjtyy.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=4c7b223043bec87986a323cc5b4f09a5
 CHC家庭影院,http://eastscreen.tv/ooooo.php
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
@@ -202,7 +201,7 @@ CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-21.m3u8
 CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=893aa32f9d861d92c0661b8125e5b12471106642e4d0f341956e45e2f60dbb2179c3b5b6f05c2e8242e24d254815578255456ce991c2d337b226ce49c025efe16f2d4715157e642b7447f0bf06
 CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-10.m3u8
-CHC影迷电影,http://a17-2.duckdns.org:8004/mgtv/952383261.m3u8
+CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-13.m3u8
 CHC影迷电影,http://a9312ecb8ac7413025915c07d453143d.livehwc4.com/live.sxrtv.com/iptv/chcymdy.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=42784a62f268d4ab6c530efee1ac87b6
 CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-12.ctv
 CHC影迷电影,https://stream1.freetv.fun/chcying-mi-dian-ying-15.ctv
@@ -557,9 +556,9 @@ CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 北京新闻,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EncK5uEAdYwWMsf8WJWI1mQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_LSIQh_h2P54Cz-MqgJqC%2CEND
 北京新闻,http://dsj.motem.top:8880/bptv/10000100000000050000000003870780.m3u8
 北京新闻,https://ls.qingting.fm/live/339/64k.m3u8
+北京新闻,http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
 北京新闻,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8
 北京新闻,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226512/1.m3u8
-北京新闻,http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
 北京新闻,http://nas.suntao.online:35455/bptv/10000100000000050000000003870780.m3u8
 北京新闻,http://yc.myds.me:35455/bptv/10000100000000050000000003870780.m3u8
 北京生活,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226514/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Es-PVNcPJsjr_oBdcXGT40g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWvZ0r6eMXcXJOGrCpJiq1%2CEND
@@ -622,8 +621,8 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
 黑龙江文体,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225965/index.m3u8
 黑龙江文体,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226424/index.m3u8
-黑龙江文体,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226239
 黑龙江文体,http://[2409:8087:1a01:df::4025]:80/TVOD/88888888/224/3221225965/main.m3u8
+黑龙江文体,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226239
 黑龙江文体,http://[2409:8087:1a01:df::4025]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
 黑龙江文体,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226239/index.m3u8
 黑龙江文体,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8

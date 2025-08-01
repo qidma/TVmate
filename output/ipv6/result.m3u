@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/qidma/TVmate/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-07-31 20:22:33
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-08-01 08:15:18
 http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226153/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV-1
 http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226153/index.m3u8
@@ -362,8 +362,6 @@ http://wab201.win:35455/gaoma/cctv17.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视频道",CCTV-17
 http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265015/1.m3u8
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="央视频道",CHC动作电影
-http://a17-2.duckdns.org:8004/mgtv/644368714.m3u8
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="央视频道",CHC动作电影
 http://a9312ecb8ac7413025915c07d453143d.livehwc4.com/live.sxrtv.com/iptv/chcdzdy.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=b0349bb5cb32fe870a773bce61c7ea6a
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="央视频道",CHC动作电影
 http://eastscreen.tv/ooooo.php
@@ -381,8 +379,8 @@ http://eastscreen.tv/ooooo.php?id=chcdz
 https://stream1.freetv.fun/chcdong-zuo-dian-ying-12.ctv
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="央视频道",CHC动作电影
 https://stream1.freetv.fun/chcdong-zuo-dian-ying-13.m3u8
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="央视频道",CHC家庭影院
-http://a17-2.duckdns.org:8004/mgtv/644368373.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="央视频道",CHC动作电影
+https://stream1.freetv.fun/chcdong-zuo-dian-ying-16.ctv
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="央视频道",CHC家庭影院
 http://a9312ecb8ac7413025915c07d453143d.livehwc4.com/live.sxrtv.com/iptv/chcjtyy.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=4c7b223043bec87986a323cc5b4f09a5
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="央视频道",CHC家庭影院
@@ -401,8 +399,8 @@ https://www.freetv.top/migu/644368373.m3u8?migutoken=893aa32f9d861d92c0661b8125e
 http://eastscreen.tv/ooooo.php?id=chcjt
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="央视频道",CHC家庭影院
 https://stream1.freetv.fun/chcjia-ting-ying-yuan-10.m3u8
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC影迷电影.png" group-title="央视频道",CHC影迷电影
-http://a17-2.duckdns.org:8004/mgtv/952383261.m3u8
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="央视频道",CHC家庭影院
+https://stream1.freetv.fun/chcjia-ting-ying-yuan-13.m3u8
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC影迷电影.png" group-title="央视频道",CHC影迷电影
 http://a9312ecb8ac7413025915c07d453143d.livehwc4.com/live.sxrtv.com/iptv/chcymdy.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=42784a62f268d4ab6c530efee1ac87b6
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC影迷电影.png" group-title="央视频道",CHC影迷电影
@@ -1104,11 +1102,11 @@ http://dsj.motem.top:8880/bptv/10000100000000050000000003870780.m3u8
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京新闻.png" group-title="北京频道",北京新闻
 https://ls.qingting.fm/live/339/64k.m3u8
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京新闻.png" group-title="北京频道",北京新闻
+http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
+#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京新闻.png" group-title="北京频道",北京新闻
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京新闻.png" group-title="北京频道",北京新闻
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226512/1.m3u8
-#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京新闻.png" group-title="北京频道",北京新闻
-http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京新闻.png" group-title="北京频道",北京新闻
 http://nas.suntao.online:35455/bptv/10000100000000050000000003870780.m3u8
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京新闻.png" group-title="北京频道",北京新闻
@@ -1218,9 +1216,9 @@ http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225965/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江文体.png" group-title="黑龙江频道",黑龙江文体
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226424/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江文体.png" group-title="黑龙江频道",黑龙江文体
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226239
-#EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江文体.png" group-title="黑龙江频道",黑龙江文体
 http://[2409:8087:1a01:df::4025]:80/TVOD/88888888/224/3221225965/main.m3u8
+#EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江文体.png" group-title="黑龙江频道",黑龙江文体
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226239
 #EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江文体.png" group-title="黑龙江频道",黑龙江文体
 http://[2409:8087:1a01:df::4025]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
 #EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江文体.png" group-title="黑龙江频道",黑龙江文体
